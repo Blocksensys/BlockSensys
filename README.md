@@ -24,43 +24,6 @@
 		</div>
   	</header>
 
-	<section id="showcase">
-		<div class="container">
-			<style>
-					@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
-					h1 {
-						font-family: 'Orbitron';
-						color:#ffffff;
-						text-align: center;
-					}
-					h2 {
-						font-family: 'Orbitron';
-						color:#ffffff;
-						text-align: center;
-					}
-				</style>
-				<h1>BLOCKSENSYS</h1>
-			<h2>"Standardizing the Format of Digitally Signed Credentials"</h2>
-		</div>
-	</section>
-
-<section id="newsletter">
-
-	<div>
-		<h2>Blockchain Digital Identity Management System&trade; Prototype</h2>
-		<center>
-
-		<a href="https://bsdims.trollcoin.com/login" target="_blank">Try the Prototype</a><br> Login: test@test.com <br> Password: test</p>
-
-		</center>
-		<center>
-			<video width="640" height="480" autoplay="" playsinline="" loop="" controls="">
-				<source src="videos/bdims copy.mp4" type="video/mp4">
-		</center>
-
-	</div>
-</section>
-
 <head>
     <style>
     {
@@ -127,16 +90,6 @@
 							centrally while verification is processed decentrally. The latter is correspondent to the middle part of the diagram below
 							and the former is correspondent to the right side of the diagram below.
 
-							<center>
-								<img src="img/distdiag.jpeg" alt="" width="711" height="370"</img>
-							</center>
-						</p>
-        </div>
-        <div class="column right" style="background-color:#068abf">
-            <h2></h2>
-            <p></p>
-        </div>
-    </div>
  </body>
 
 	<footer>
