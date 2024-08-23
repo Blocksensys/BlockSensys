@@ -7,22 +7,7 @@
 		<link rel="stylesheet" href="./css/style.css"
 	</head>
 <body>
-	<header>
-		<div class="container">
-		<div id="branding">
-				<h1><span class="highlight"></span></h1>
-			</div>
-		<nav>
-			<ul>
-				<li class="current"><a href="index.html">BlockSensys&trade;</a></li>
-				<li><a href="bdims.html">Implementation</a></li>
-				<li><a href="timestampt.html">Technical</a></li>
-				<li><a href="basis.html">Application</a></li>
-				<li><a href="votenode.html">Seed</a></li>
-			</ul>
-		</nav>
-		</div>
-  	</header>
+	
 
 <head>
     <style>
