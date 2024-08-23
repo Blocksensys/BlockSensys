@@ -1,38 +1,8 @@
-<html>
-	<head>
-		<title>BlockSensys</title>
-		<link rel="stylesheet" href="./css/style.css"
-	</head>
-<body>
-	
+
 
 <head>
-    <style>
-    {
-        box-sizing: border-box;
-    }
-    /* Set additional styling options for the columns */
-    .column {
-    float: left;
-    }
-    .left {
-    width: 21%;
-    }
-    .middle {
-    width: 58%;
-    }
-    .right {
-    width: 21%;
-    }
-    .row:after {
-    content: "";
-    display: table;
-    clear: both;
-    }
-		p {
-  margin: 20px 20px 20px 20px;
-}
-    </style>
+    
+BLOCKSENSYS
  </head>
 
  <body>
@@ -72,13 +42,9 @@
 							centrally while verification is processed decentrally. The latter is correspondent to the middle part of the diagram below
 							and the former is correspondent to the right side of the diagram below.
 
- </body>
 
-	<footer>
-		<p>&copy; 2019-2022 BlockSensys, LLC All Rights Reserved.</p>
-	</footer>
 
-</body>
+
 </html>
 
 
