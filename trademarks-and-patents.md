@@ -1,2 +1,0 @@
-# Trademarks & Patents
-
